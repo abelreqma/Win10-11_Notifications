@@ -8,4 +8,4 @@ Download dependencies
 
 # Customization
 1. Can customize ICO (.ico) file, notification messages/headers, times range, and frequency of notification
-2. I recommend creating a batch (.bat) file so that the script doesn't have to be run on terminal --> python main.py
+2. I recommend creating a batch (.bat) file so that the script doesn't have to be directly run on terminal --> python main.py
